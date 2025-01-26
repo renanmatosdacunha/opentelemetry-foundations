@@ -21,3 +21,8 @@ Export
 * OTLP
 * Collector
 
+### Example Application
+
+API - Application Program Interface
+SDK - Sofwtare Development Kit
+
